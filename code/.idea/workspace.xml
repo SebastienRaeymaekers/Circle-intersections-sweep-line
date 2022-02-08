@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="code:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55a993b1-cf76-461b-ab63-87dcd1564449" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeSébastienRaeymaekers.zip" beforeDir="false" afterPath="$PROJECT_DIR$/codeSébastienRaeymaekers.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputVoorbeeld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/BruteForceAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/Canvas$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/Canvas$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/Canvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/EfficientScanLineAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/NaiveScanLineAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/TMItaak$ActiveCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/TMItaak$Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/TMItaak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/TMItaak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/TextFileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/TextFileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/uit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TMItaak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TMItaak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uitVoorbeeld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.log" beforeDir="false" afterPath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../verslag/verslag_Sébastien_Raeymaekers.tex" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1js4ZfPS8v1GnvTi1TKZxEhv78v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\Documents\KUL\3de Bach\TMI\Practicum\TMItaak\code" />
+      <recent name="C:\Users\sebas\Documents\KUL\3de Bach\TMI\Practicum\TMItaak\code\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TMItaak" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a993b1-cf76-461b-ab63-87dcd1564449" name="Default Changelist" comment="" />
+      <created>1604579525472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604579525472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.txt" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="100" key="GridCell.Tab.0.bottom" timestamp="1644326260241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644326260241" />
+    <state width="1877" height="100" key="GridCell.Tab.0.center" timestamp="1644326260241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="100" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644326260241" />
+    <state width="1877" height="100" key="GridCell.Tab.0.left" timestamp="1644326260241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="100" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644326260241" />
+    <state width="1877" height="100" key="GridCell.Tab.0.right" timestamp="1644326260241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="100" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644326260241" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1644258752796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644258752796" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1644326360041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644326360041" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="leftChild" />
+        <watch expression="circle2" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
