@@ -21,9 +21,15 @@ The program reads the text file with the given circles and stores them. Then, it
 
 ![Screenshot](images/Algorithm1.JPG)
 
-
 * The second algorithm is a naive sweep line algorithm which uses a priority queue to store the currently active circles and checks for intersections between the newly added circle and all the other circles in the queue whenever a new circle is added. The worst-case time complexity is `O(n²)`.
+<br />
+
+![Screenshot](images/Algorithm2.JPG)
+
 * The third algorithm is an efficient sweep line algorithm which uses a binary search tree to store the currently active circles and checks for intersections between a circle and its neighbouring circles in the tree whenever the circle is added to the tree, whenever an intersection occurs and whenever a circle is removed from the tree. The time complexity is `O(n.log(n))` 
+<br />
+
+![Screenshot](images/Algorithm3.JPG)
 
 ### Built With
 * [Java](https://www.java.com/)
