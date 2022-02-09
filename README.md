@@ -28,15 +28,10 @@ The program reads the text file with the given circles and stores them. Then, it
 <!-- GETTING STARTED -->
 ## Getting Started
 
-TODO: ...
+Open in.txt file. On the first line the number of the algorithm to find the circle intersections is put. On the ohter lines, the coordinates of the circles and the radius are put in a double format. Finally, run the program and the coordinates of the intersections will be written in the out.txt file alongside the runtime in ms. A gui will also appear which will draw the circles given with the found intersections drawn in red.
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License.
 
-
-
-Program that finds the intersections between all the given cirles given in the in.txt file using three algorithms.
-TODO: add description of algorithms.
-TODO: fix last algorithm.
